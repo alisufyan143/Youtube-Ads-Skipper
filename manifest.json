@@ -1,6 +1,6 @@
 {
     "name": "YouTube Auto Script",
-    "version": "1.0",
+    "version": "1.3",
     "description": "Runs JavaScript on YouTube pages",
     "permissions": ["activeTab", "https://www.youtube.com/*"],
     "background": {
@@ -8,8 +8,8 @@
       "persistent": false
     },
     "icons": {
-      "48": "icon.png",
-      "128": "icon.png"
+      "48": "youtube.png",
+      "128": "youtube.png"
     },
     "manifest_version": 2
   }
